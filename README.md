@@ -5,8 +5,6 @@
 3. Run the application: `python main.py`
 
 ## Usage
-
-### Set mutation rate
 Load a csv file containing the mutation rates:
 `marker_set.read_marker_set_from_file(r"manuscript/mutationrates/1.csv")`
 
