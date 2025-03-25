@@ -1,8 +1,3 @@
-# match-Y
-match-Y is a powerful pedigree-based tool designed to estimate match probabilities for Y-chromosomal haplotypes. Its mathematical framework leverages marker mutation rates, pedigree structure, and the known haplotypes of individuals within the family tree. By combining this data, the tool accurately estimates match probabilities with a person of interest using a Monte Carlo simulation to model mutations.
-
-To enhance efficiency, match-Y employs importance sampling, significantly streamlining the simulation process. It supports any number of Y-STR markers.
-
 ## Installation
 
 1. Install python
